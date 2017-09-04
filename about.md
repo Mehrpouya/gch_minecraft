@@ -5,7 +5,7 @@ title: About
 # Welcome to Glasgow Children Hospital Minecraft
 ## Introduction
 
-This project was initiated by Ginkgo Projects and funded by Trefoil House. Production and management was handled by Hadi Mehrpouya of Abertay University and Chris Barker.
+This project was initiated by Ginkgo Projects in partnership with Glasgow Children’s Hospital Charity. This work has been funded by Glasgow Children’s Hospital Charity have funded the project in partnership with Trefoil House. Production and management was handled by [Hadi Mehrpouya](http://hadi.link) of Abertay University and Chris Barker.
 
 The work conducted here was informed by a feasibility study written in 2016 which investigated what might be an effective and useful way to collaborate with Hospital patients to make an interactive digital version of the buildings.
 
