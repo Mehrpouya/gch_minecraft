@@ -1,5 +1,7 @@
 .logo{
-    width: 70px;
-    padding: 5px;
-    margin: 5px;
+    max-height: 80px;
+}
+.ginkgo{
+    height: 30px;
+
 }
