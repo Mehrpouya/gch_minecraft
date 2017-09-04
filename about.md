@@ -30,6 +30,38 @@ Following a visit the map file was backed up and shared with the project team vi
 ## Consolidation
 Between the main run of workshops and the distribution of the map to the hospital consoles, some time was invested in filling any gaps in the overall structure of the hospital building model. Particularly this was in making sure that all floors extended through most of the model and that there was roofing and internal lighting through the majority of the footprint.
 
+## Deployment Phase
+In this phase the map file was converted from the PC version of the game to work on console editions which read the data slightly differently. Fortunately this is quite a well-established process in Minecraft, with a number of tools available for the task. The basic process in each case can be expressed thus:
+
+Take Glasgow Hospital model save file and a blank save file from the console of choice (Playstation, Xbox)
+Extract the raw geometry data from the PC file and replace the contents of the console file.
+Reseal the console save file.
+Copy that file onto all the other Xboxes or Playstations
+
+For a visual documentation of how to deploy the model on Xbox or Playstation please refer to Appendix I.
+
+One issue that we experienced in this phase was the compatibility of certain blocks between our fairly recent version of the Minecraft game on PC and the outdated version that comes as standard on retail boxed console editions. On opening the newly populated save files, the console would simply crash or show nothing.
+
+To solve this issue we needed to manually apply updates to the game consoles in the hospital wards, which brought support for newer types of blocks that had been used by patients in designing the ingame Hospital.
+
+## Participatory approach
+How we worked with the patients on both phases, how the team worked with them.
+Engagement
+Number of patients
 
 
+
+
+## Deliverables
+The initial agreement for deliverables was limited to the Minecraft Map itself - distributed on as many hospital devices as possible - along with this report. Capacity was built into the budget for unspecified promotion and documentation of the project, along the lines of what had been accomplished on similar previous hospital/artist collaborations
+
+## Map Distribution
+
+## Video
+Edinburgh artist Robert Powell was commissioned in the late part of the project to produce a promotional video of the model. This was based on a prototype which Nikita had previously made to show how the work was progressing. It is available online at: << LINK >>
+Framed Screenshots
+Acknowledgements
+Thank you to Sarah Barr and Ally Mellon at the Glasgow Royal Hospital for Children. Their help in facilitating and supervising workshop visits was essential to the success of the project. It was clear to see that their hard work and enthusiasm was a hugely positive influence on quality of patient care and wellbeing.
+Further thanks to Chris , Tom,and Julie at Ginkgo Projects,  Hannah Kerrigan for their support, and to Trefoil House for funding the project.
+
 
