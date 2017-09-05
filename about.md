@@ -87,7 +87,7 @@ As part of this aim, the project commissioned and Edinburgh based artist Robert 
 Thank you to **Sarah Barr** and **Ally Mellon** at the Glasgow Royal Hospital for Children. Their help in facilitating and supervising workshop visits was essential to the success of the project.
 It was clear to see that their hard work and enthusiasm was a hugely positive influence on quality of patient care and wellbeing.
 
-Further thanks to **Chris Freemantle**, **Tom Littlewood** ,and **Julie** at Ginkgo Projects,  **Hannah Kerrigan** for their support, and to **Trefoil House** for funding the project.
+Further thanks to **Chris Fremantle**, **Tom Littlewood** ,and **Julie** at Ginkgo Projects,  **Hannah Kerrigan** for their support, and to **Trefoil House** for funding the project.
 Finally many thanks to Robert Powell for his great contribution and work on the video documentation, minecraft sculpture and printed version of the model. Nikita Kotter for his commitment and hard work throughout the project not only as workshop facilitator but on many other fronts.
 
 
