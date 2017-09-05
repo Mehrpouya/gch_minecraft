@@ -46,23 +46,48 @@ To solve this issue we needed to manually apply updates to the game consoles in 
 This can be done via the internet or thwe dedicate flash memory that has been given to Ally member of staff at Zone 12.
 
 ## Participatory approach
-How we worked with the patients on both phases, how the team worked with them.
-Engagement
-Number of patients
+Over the past twelve months, the project was developed in two phases.
+1. Feasibility Phase
+2. Production and Deployment
+### 1. Feasibility Phase
+The purpose of this phase was to run several participatory workshops with hospital patients to work out what areas of hospital are more important to them as well as how they want to represent it in minecraft. In addition we gain more insights about the challenges and opportunities of working within a hospital context.
+Our first workshop took place on 22nd of June 2016, followed by second visit on 21st July 2016 and last one on 2nd August 2016. Each workshop consisted of participatory methods to find out about various ways and imaginations that patients have in terms of looking at the hospital setting from different perspectives.
+At the end of this phase, a report was delivered which can be accessed [here](public/res/Minecraft_Feasibility_Report.pdf)
 
+This report was commissioned by Glasgow Children’s Hospital Charity via Ginkgo Projects to assess the viability of building and running a version of the hospital space in the multi-platform video game Minecraft. The report has been written and developed by Chris Barker and Hadi Mehrpouya. Within this report, ‘we’ means the workshop leaders and report authors i.e. Chris Barker and Hadi Mehrpouya.
 
+In order to realise some of the challenges, opportunities and concerns in regards to Minecraft work, three visits were made to the hospital. Workshops and interviews were used as the method of inquiry. Of these workshops, patients were directly involved in two. All patient names are anonymised.
 
+Glasgow Royal Hospital for Sick Children (GHSC) consists of a total of 4 wards, with 11 separate sub-wards. Each floor is equipped with game consoles, both mobile and in each playroom. Each patient room is also equipped with an entertainment system which provides access to internet, some games, and streaming websites such as Netflix.
+
+### 2. Production and Deployment
+![open Horizon](public/res/timeline.png)
+
+Phase 2 of this project was focused on developing a model of the hospital in minecraft through a participatory approach. This was done through a series of workshops that took place between Jan - Aug 2017. The usual structure of the workshops is as follows:
+1. Member of the team would visit the hospital
+2. Depending on who would be able to contribute and work with us, Zone 12 staff would make a list of 3-4 patients to work with
+3. Meet the patients and if they are not familiar with minecraft give them a quick introduction
+4. Patients can go with hospital staff and member of our team to take some visuals of which part of the hospital they want to develop
+5. return to their room/zone12 work on the model until they are tired or not engaging anymore
+6. Backup the model on dropbox
+
+This process was being repeated for the other patients on that day. between the workshop sessions members of the team would spend sometime to polish and develop the unfinished work.
+
+Overall we have worked with over 50 patients with several repetitions.
 
 ## Deliverables
-The initial agreement for deliverables was limited to the Minecraft Map itself - distributed on as many hospital devices as possible - along with this report. Capacity was built into the budget for unspecified promotion and documentation of the project, along the lines of what had been accomplished on similar previous hospital/artist collaborations
+The initial agreement for deliverables was limited to the Minecraft Map itself - distributed on as many hospital devices as possible - along with this report.
+Capacity was built into the budget for unspecified promotion and documentation of the project:
+As part of this aim, the project commissioned and Edinburgh based artist Robert Powell to:
+- make a 3D sculpture outside the hospital in minecraft
+- Printed picture and visual of the model for publicity inside the hospital. We are envisaging this to be placed inside zone 12
+- Promotional video documenting and presenting the efforts and the outcomes
 
-## Map Distribution
+## Acknowledgements
+Thank you to **Sarah Barr** and **Ally Mellon** at the Glasgow Royal Hospital for Children. Their help in facilitating and supervising workshop visits was essential to the success of the project.
+It was clear to see that their hard work and enthusiasm was a hugely positive influence on quality of patient care and wellbeing.
 
-## Video
-Edinburgh artist Robert Powell was commissioned in the late part of the project to produce a promotional video of the model. This was based on a prototype which Nikita had previously made to show how the work was progressing. It is available online at: << LINK >>
-Framed Screenshots
-Acknowledgements
-Thank you to Sarah Barr and Ally Mellon at the Glasgow Royal Hospital for Children. Their help in facilitating and supervising workshop visits was essential to the success of the project. It was clear to see that their hard work and enthusiasm was a hugely positive influence on quality of patient care and wellbeing.
-Further thanks to Chris , Tom,and Julie at Ginkgo Projects,  Hannah Kerrigan for their support, and to Trefoil House for funding the project.
+Further thanks to **Chris Freemantle**, **Tom Littlewood** ,and **Julie** at Ginkgo Projects,  **Hannah Kerrigan** for their support, and to **Trefoil House** for funding the project.
+Finally many thanks to Robert Powell for his great contribution and work on the video documentation, minecraft sculpture and printed version of the model. Nikita Kotter for his commitment and hard work throughout the project not only as workshop facilitator but on many other fronts.
 
 

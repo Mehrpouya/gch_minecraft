@@ -128,13 +128,3 @@ This can be done by:
 - move it into your local minecraft saves and you'er done!
 
 Next time you load minecraft you should be able to see the model. Note that due to minecraft saving mechanism, the model can only be used by the user profile that you logged into your Xbox.
-
-
-
-
-
-
-
-This guide is for windows machines however the process will be the same for converting the PC model for Xbox or Playstation.
-
-
