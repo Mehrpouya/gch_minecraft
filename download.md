@@ -58,7 +58,8 @@ Make sure you extract the files into the minecraft save folder on your PC.
 ## 3. How to make a save on a portable memory (memory stick)
 In order to copy the model into Xbox, you need to make a sample save from inside the game by the console you are planning to deploy the model to.
 This can be done in two ways:
-**3.1*. *Goto games and apps, then find minecraft. The save files are there. You can go down the list 1 by 1 and click on a save file, select copy and then after window pops up, select the flash drive you are trying to save to.
+
+**3.1. **Goto games and apps, then find minecraft. The save files are there. You can go down the list 1 by 1 and click on a save file, select copy and then after window pops up, select the flash drive you are trying to save to.
 
 And that is all. If you want to do the reverse then goto the flash drive first then games and apps, find minecraft, and the save files should be there.
 
