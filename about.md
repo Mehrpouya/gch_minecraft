@@ -38,11 +38,12 @@ Extract the raw geometry data from the PC file and replace the contents of the c
 Reseal the console save file.
 Copy that file onto all the other Xboxes or Playstations
 
-For a visual documentation of how to deploy the model on Xbox or Playstation please refer to Appendix I.
+For a visual documentation of how to deploy the model on Xbox or Playstation please refer to [Guide to download and deploy the model](/download.html) section .
 
 One issue that we experienced in this phase was the compatibility of certain blocks between our fairly recent version of the Minecraft game on PC and the outdated version that comes as standard on retail boxed console editions. On opening the newly populated save files, the console would simply crash or show nothing.
 
 To solve this issue we needed to manually apply updates to the game consoles in the hospital wards, which brought support for newer types of blocks that had been used by patients in designing the ingame Hospital.
+This can be done via the internet or thwe dedicate flash memory that has been given to Ally member of staff at Zone 12.
 
 ## Participatory approach
 How we worked with the patients on both phases, how the team worked with them.

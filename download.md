@@ -9,13 +9,13 @@ This guide will show you how to download the model and install it on your PC (Wi
 The process can be broken down to the following. further within this document each process will be explained further.
 
 # How to copy the model on PC
-In order to access the Hospital model in minecraft on your PC, you need to follow step **1** and **2** from the XBox deployment instructions below.
+In order to access the Hospital model in minecraft on your PC, you need to follow step **1** and **2** from the Xbox deployment instructions below.
 
 You will need to copy the contents of the extracted model into your minecraft saves folder. On Windows machines this is usually located at
 C:\Users\<YOUR USERNAME>\AppData\Roaming\.minecraft\saves
 
 
-# How to deploy the model for XBox
+# How to deploy the model for Xbox
 
 ## Summary of steps
 
@@ -23,8 +23,8 @@ C:\Users\<YOUR USERNAME>\AppData\Roaming\.minecraft\saves
 2. Download a copy of the model from [here](https://github.com/Mehrpouya/gch_minecraft/raw/master/RHC_Final.zip)
 3. Make a minecraft save on a portable memory (flash memory)
 4. Export the save date
-5. Convert the model into XBOX/Playsation
-6. Replace the XBOX/Playstation save with the new save contents
+5. Convert the model into Xbox/Playsation
+6. Replace the Xbox/Playstation save with the new save contents
 7. Copy the new save into your game console
 
 
@@ -56,7 +56,7 @@ This can be done by using [7-zip](http://www.7-zip.org/download.html) or [winzip
 Make sure you extract the files into the minecraft save folder on your PC.
 
 ## 3. How to make a save on a portable memory (memory stick)
-In order to copy the model into XBOX, you need to make a sample save from inside the game by the console you are planning to deploy the model to.
+In order to copy the model into Xbox, you need to make a sample save from inside the game by the console you are planning to deploy the model to.
 This can be done in two ways:
 **3.1*. *Goto games and apps, then find minecraft. The save files are there. You can go down the list 1 by 1 and click on a save file, select copy and then after window pops up, select the flash drive you are trying to save to.
 
@@ -81,8 +81,8 @@ It will take a short while for horizon to load. Once horizon is open.
 
 Great now you have the save file ready to modify and and replace it with the hospital model.
 
-## 5. Convert the model for XBOX/Playsation
-In order to convert the model for XBOX/Playstation we will use the Minecraft Map Convertor that you have installed in step 1 of this tutorial.
+## 5. Convert the model for Xbox/Playsation
+In order to convert the model for Xbox/Playstation we will use the Minecraft Map Convertor that you have installed in step 1 of this tutorial.
 Go ahead and open the **Minecraft Map Converter**
 
 You are going to convert from PC to Xbox so first click on PC
@@ -101,7 +101,7 @@ Click open, it will take a file and finally end with a success message.
 
 **You are almost there!**
 
-## 6. Replace the XBOX/Playstation save with the new save contents
+## 6. Replace the Xbox/Playstation save with the new save contents
 Now you need to replace the save file in your flash memory.
 
 For this step you will need horizon again.
@@ -119,15 +119,15 @@ Once it gives you the success message. you need to hash and sign it.
 
 ## 7. Copy the new save into your game console
 
-now unplug your flash memory from your PC and plug it into your xbox
+now unplug your flash memory from your PC and plug it into your Xbox
 You now have the model ready for your console.
-All you need to do is to copy the model into your xbox.
+All you need to do is to copy the model into your Xbox.
 This can be done by:
 - going into your console setting
 - finding the flash memory and minecraft save.
 - move it into your local minecraft saves and you'er done!
 
-Next time you load minecraft you should be able to see the model. Note that due to minecraft saving mechanism, the model can only be used by the user profile that you logged into your xbox.
+Next time you load minecraft you should be able to see the model. Note that due to minecraft saving mechanism, the model can only be used by the user profile that you logged into your Xbox.
 
 
 
