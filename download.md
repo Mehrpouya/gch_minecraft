@@ -48,7 +48,7 @@ Compressed(zip) version of the Glasgow Children Hospital Minecraft model can be 
 
 Once you have downloaded the model, you need to have a software to extract the compressed model.
 
-### 2.1. How to extract the modeel
+### 2.1. How to extract the model
 Use a decompression software to extract the model files from the downloaded file.
 
 This can be done by using [7-zip](http://www.7-zip.org/download.html) or [winzip](http://www.winzip.com/win/en/downwz.html)
