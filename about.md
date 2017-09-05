@@ -38,7 +38,7 @@ Extract the raw geometry data from the PC file and replace the contents of the c
 Reseal the console save file.
 Copy that file onto all the other Xboxes or Playstations
 
-For a visual documentation of how to deploy the model on Xbox or Playstation please refer to [Guide to download and deploy the model](/download.html) section .
+For a visual documentation of how to deploy the model on Xbox or Playstation please refer to [Guide to download and deploy the model](download.html) section .
 
 One issue that we experienced in this phase was the compatibility of certain blocks between our fairly recent version of the Minecraft game on PC and the outdated version that comes as standard on retail boxed console editions. On opening the newly populated save files, the console would simply crash or show nothing.
 
