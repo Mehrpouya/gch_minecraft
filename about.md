@@ -5,9 +5,12 @@ title: About
 # Welcome to Glasgow Children Hospital Minecraft
 ## Introduction
 
-This project was initiated by Ginkgo Projects in partnership with Glasgow Children’s Hospital Charity. This work has been funded by Glasgow Children’s Hospital Charity have funded the project in partnership with Trefoil House. Production and management was handled by [Hadi Mehrpouya](http://hadi.link) of Abertay University and Chris Barker.
+This project was initiated by Ginkgo Projects alongside Glasgow Children’s Hospital Charity who also funded the project in partnership with Trefoil House. Production and management was handled by [Hadi Mehrpouya](http://hadi.link) of Abertay University and Chris Barker.
 
 The work conducted here was informed by a feasibility study written in 2016 which investigated what might be an effective and useful way to collaborate with Hospital patients to make an interactive digital version of the buildings.
+
+## Purpose
+The purpose of the project is to counteract the negative experiences faced by children and young people who attend the Royal Hospital for Children in Glasgow frequently, or for long periods of time. These young people have often had to relinquish a lot of control over their own lives due to their challenging clinical needs. Giving patients the opportunity to create the hospital grounds in a virtual environment will be particularly beneficial for young people in isolation or unable to leave their wards, allowing them to explore and create directly from their bedside. By engaging the children more in their surroundings, we are adding to the active and therapeutic campus environment, encouraging the young people’s imagination and proactive play.
 
 ## Team
 
@@ -87,7 +90,7 @@ As part of this aim, the project commissioned and Edinburgh based artist Robert 
 Thank you to **Sarah Barr** and **Ally Mellon** at the Glasgow Royal Hospital for Children. Their help in facilitating and supervising workshop visits was essential to the success of the project.
 It was clear to see that their hard work and enthusiasm was a hugely positive influence on quality of patient care and wellbeing.
 
-Further thanks to **Chris Fremantle**, **Tom Littlewood** ,and **Julie** at Ginkgo Projects,  **Hannah Kerrigan** for their support, and to **Trefoil House** for funding the project.
+Further thanks to  Many thanks to **Chris Fremantle**, **Tom Littlewood**, and **Julie** from Ginkgo Projects; and **Hannah Kerrigan** from Glasgow Children Hospital Charity, for all their support to project. Further thanks to Glasgow Children’s Hospital Charity and Trefoil House for generously funding GCH Minecraft.
+
 Finally many thanks to Robert Powell for his great contribution and work on the video documentation, minecraft sculpture and printed version of the model. Nikita Kotter for his commitment and hard work throughout the project not only as workshop facilitator but on many other fronts.
 
-
